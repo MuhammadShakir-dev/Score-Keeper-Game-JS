@@ -14,3 +14,6 @@
 <li>GITHUB</li>
 <li>CODEPEN</li>
 </ol>
+
+<p>Regards</p>
+<p>MuhammadShakir-dev</p>
