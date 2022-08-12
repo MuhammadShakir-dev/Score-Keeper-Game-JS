@@ -6,6 +6,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JS</li>
+<li>Bulma</li>
 </ol>
 
 <h2>Resources</h2>
