@@ -1,1 +1,12 @@
+// im workin with bulma its up to you to use wither bulma or css
+//for css
 
+<style>
+.winner{
+color:green;
+}
+
+.loser{
+color:red;
+}
+</style>
